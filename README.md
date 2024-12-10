@@ -66,6 +66,8 @@ Warm regards,
    cd Cold-mail-generator/app
 
 3. **Run the application:**
+   ```bash
+     python main.py
+![Screenshot](./Screenshot%202024-12-10%20163410.png)
 
-```bash
-  python main.py
+
