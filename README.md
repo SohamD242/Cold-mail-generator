@@ -57,7 +57,7 @@ Warm regards,
 
 1. Clone the repository:  
    ```bash  
-   https://github.com/SohamD242/News-AI-Agent.git
+   https://github.com/SohamD242/Cold-mail-generator.git
 
 ## Setup Instructions  
 
